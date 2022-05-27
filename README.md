@@ -1,4 +1,4 @@
-- ###👋 Hi, I’m @Akash-Deb-Nath
+- 👋 Hi, I’m @Akash-Deb-Nath
 - 👀 I’m interested in full stack Web Development
 - 🌱 I’m currently learning Web Development(React js, Node js, javascript ,MondoDB ,Firebase).
 - 📫 How to reach me akash.dns12345@gmail.com
