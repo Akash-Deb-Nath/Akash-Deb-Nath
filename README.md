@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @Akash-Deb-Nath<br><br>- 🔭 I’m interested in full stack Web Development<br>- 📚 I'm currently learning Go , Docker<br>- 📫 How to reach me akash.dns12345@gmail.com<br>- 🥰 Portfolio: https://akash-deb-nath.web.app/</p>
+<p align="left">👋 Hi, I’m Akash Deb Nath<br><br>- 🔭 I’m interested in full stack Web Development<br>- 📚 I'm currently learning Go , Docker<br>- 📫 How to reach me akash.dns12345@gmail.com<br>- 🥰 Portfolio: https://akash-deb-nath.web.app/</p>
 
 ###
 
